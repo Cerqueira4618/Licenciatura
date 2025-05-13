@@ -1,0 +1,6 @@
+5 5
+E#ADC
+DC#E#
+B#DCE
+CDE#B
+A#CB#
